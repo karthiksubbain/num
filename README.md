@@ -23,4 +23,4 @@ array[j]=temp;
 for(i=0;i<n;i++)
 printf("%d\n",array[i]);
 getch();
-}
+} 
